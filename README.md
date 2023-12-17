@@ -28,12 +28,19 @@ Example 1
 
 Example 2
 1. SR video without SR jittering
+
+![image](https://github.com/key1cdc/VSRQAD/blob/master/images/video222_x2.gif)
+
 2. SR video with moderate SR jittering
+
+![image](https://github.com/key1cdc/VSRQAD/blob/master/images/video222_x4.gif)
+
 3. SR video with severe SR jittering
 
-III. Details of subjective quality evaluation
+![image](https://github.com/key1cdc/VSRQAD/blob/master/images/video222_x8.gif)
 
-Photograph of the evaluation environment
+III. Details of subjective quality evaluation(Photograph of the evaluation environment)
+
 1. Pair Comparision Sorting(PCS)
 
 ![image](https://github.com/key1cdc/VSRQAD/blob/master/images/PCS_1.png)
