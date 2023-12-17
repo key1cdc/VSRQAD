@@ -15,7 +15,7 @@ I. Examples of the reference frames
 
 ![image](https://github.com/key1cdc/VSRQAD/blob/master/images/reference.png)
 
-II. Examples of different levels of the SR jittering
+II. Examples of different levels of the SR jittering (Slow loading, please be patient)
 
 Example 1
 1. SR video without SR jittering
