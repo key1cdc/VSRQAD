@@ -43,7 +43,21 @@ III. Details of subjective quality evaluation(Photograph of the evaluation envir
 
 1. Pair Comparision Sorting(PCS)
 
+Sex ratio of the PCS evaluation
+
 ![image](https://github.com/key1cdc/VSRQAD/blob/master/images/PCS_1.png)
 
-Sex ratio of the PCS evaluation
+Disciplines distribution of the PCS evaluation
+
+![image](https://github.com/key1cdc/VSRQAD/blob/master/images/PCS_2.png)
+
+2. Single Stimulus(SS)
+
+Sex ratio of the SS evaluation
+
+![image](https://github.com/key1cdc/VSRQAD/blob/master/images/SS_1.png)
+
+Disciplines distribution of the SS evaluation
+
+![image](https://github.com/key1cdc/VSRQAD/blob/master/images/SS_2.png)
 
