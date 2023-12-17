@@ -12,6 +12,7 @@ I. Examples of the reference frames
 ![image](https://github.com/key1cdc/VSRQAD/blob/master/images/reference.png)
 
 II. Examples of different levels of the SR jittering
+
 Example 1
 1. SR video without SR jittering
 
@@ -31,8 +32,11 @@ Example 2
 3. SR video with severe SR jittering
 
 III. Details of subjective quality evaluation
+
 Photograph of the evaluation environment
 1. Pair Comparision Sorting(PCS)
+
 ![image](https://github.com/key1cdc/VSRQAD/blob/master/images/PCS_1.png)
+
 Sex ratio of the PCS evaluation
 
