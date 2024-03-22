@@ -15,25 +15,25 @@ Password：z8so
 You can also download the VSR-QAD from IEEE.Dataport. Due to the large size of the dataset, we split it into 7 zip archives, the links and doi numbers for the other 6 archives are as follows：
 
 VSR-QAD-1
-https://dx.doi.org/10.21227/j87d-w690  10.21227/j87d-w690
+https://dx.doi.org/10.21227/j87d-w690  Doi: 10.21227/j87d-w690
 
 VSR-QAD-2
-https://dx.doi.org/10.21227/n8eb-b229 10.21227/n8eb-b229
+https://dx.doi.org/10.21227/n8eb-b229 Doi: 10.21227/n8eb-b229
 
 VSR-QAD-3
-https://dx.doi.org/10.21227/v7qr-sm72 10.21227/v7qr-sm72
+https://dx.doi.org/10.21227/v7qr-sm72 Doi: 10.21227/v7qr-sm72
 
 VSR-QAD-4
-https://dx.doi.org/10.21227/maws-rq74 10.21227/maws-rq74
+https://dx.doi.org/10.21227/maws-rq74 Doi: 10.21227/maws-rq74
 
 VSR-QAD-5
-https://dx.doi.org/10.21227/68ph-7a50 10.21227/68ph-7a50
+https://dx.doi.org/10.21227/68ph-7a50 Doi: 10.21227/68ph-7a50
 
 VSR-QAD-6
-https://dx.doi.org/10.21227/gra1-7244  10.21227/gra1-7244
+https://dx.doi.org/10.21227/gra1-7244  Doi: 10.21227/gra1-7244
 
 VSR-QAD-7
-https://dx.doi.org/10.21227/ee7s-2t62 10.21227/ee7s-2t62
+https://dx.doi.org/10.21227/ee7s-2t62 Doi: 10.21227/ee7s-2t62
 
 I. Examples of the reference frames
 
